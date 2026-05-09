@@ -1,0 +1,6 @@
+{
+    "auto_backup_enabled": false,
+    "backup_path": "C:\\Users\\hp\\Desktop",
+    "backup_time": "23:00",
+    "retention_days": 15
+}
